@@ -1,0 +1,11 @@
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\bin\Debug\netcoreapp2.1\TokenGenerator.deps.json
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\bin\Debug\netcoreapp2.1\TokenGenerator.runtimeconfig.json
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\bin\Debug\netcoreapp2.1\TokenGenerator.runtimeconfig.dev.json
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\bin\Debug\netcoreapp2.1\TokenGenerator.dll
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\bin\Debug\netcoreapp2.1\TokenGenerator.pdb
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.csprojAssemblyReference.cache
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.AssemblyInfoInputs.cache
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.AssemblyInfo.cs
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.dll
+C:\Users\Gavin\source\repos\TokenGenerator\TokenGenerator\obj\Debug\netcoreapp2.1\TokenGenerator.pdb
