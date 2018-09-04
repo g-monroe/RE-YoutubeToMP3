@@ -1,6 +1,6 @@
 # This is only for Educational Purposes only!
 # RE-YoutubeToMP3
-Reverse Engineering Project for a .Net Program. 
+Reverse Engineering Project for a .Net Program.  Personal Project!
 
 # BACKGROUND:
 
